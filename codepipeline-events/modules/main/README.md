@@ -1,7 +1,7 @@
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
-No requirements.
+1. Build and deploy docker image. Access to repository required: https://github.com/Arrayly/codepipeline-notify  
 
 ## Providers
 
